@@ -54,5 +54,5 @@ function removeElementFromEndOfArray(array){
   var newArray = array.slice(-1);
 
   return newArray;
-  
+
 }
